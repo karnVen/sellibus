@@ -64,7 +64,8 @@ button {
     font-weight: bold; /* ADDED: Makes button text stand out */
     transition: background-color 0.2s ease; /* ADDED: Smooth transition for hover effect
     just for stike
-    nother one */
+    nother one 
+    another one*/
 }
 
 button:hover {
